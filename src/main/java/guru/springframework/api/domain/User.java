@@ -9,7 +9,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @Getter
 @Setter
-public class Data {
+public class User {
     private String gender;
     private Name name;
     private Location location;
